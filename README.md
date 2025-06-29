@@ -6,7 +6,9 @@
 
 * SQL QUERY.sql – SQL queries for analysis
 
-* Milestone Excel & SQL.pptx – Project presentation
+* Excel & SQL.pptx – Project presentation
+
+* Documentation.docx
 
 # 🔧 Tools Used
 * Excel (Data cleaning, Pivot charts, Dashboard)
